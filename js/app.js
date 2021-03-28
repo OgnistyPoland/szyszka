@@ -227,16 +227,19 @@ function list(path) {
 	}
 	</style>
 	<p class="centerr tekstt"></br>
-	<img src="https://i.imgur.com/Dfa1dvO.png" class="centerr responsivee"></br></br>W sezonie zimowym wydajemy:</br>
-	<a href="https://anilist.co/anime/109261/5Toubun-no-Hanayome-">✧ 5-Toubun no Hanayome ∬</a></br>
-	<a href="https://anilist.co/manga/108547/Azur-Lane-Bisoku-Zenshin">✧ Azur Lane: Bisoku Zenshin!</a></br>
-	<a href="https://anilist.co/anime/124080/Horimiya/">✧ Horimiya</a></br>
-	<a href="https://anilist.co/anime/113425/Kaifuku-Jutsushi-no-Yarinaoshi">✧ Kaifuku Jutsushi no Yarinaoshi</a></br>
-	<a href="https://anilist.co/anime/103632/Kumo-desu-ga-Nani-ka">✧ Kumo Desu ga, Nani ka?</a></br>
-	<a href="https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/">✧ Mushoku Tensei: Isekai Ittara Honki Dasu</a></br>
-	<a href="https://anilist.co/anime/109403/Non-Non-Biyori-Nonstop/">✧ Non Non Biyori Nonstop</a>
-	</br><a href="https://anilist.co/anime/119661/ReZERO-Starting-Life-in-Another-World-Season-2-Part-2/">✧ Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
-	</br><a href="https://anilist.co/anime/112649/Suppose-a-Kid-from-the-Last-Dungeon-Boonies-moved-to-a-starter-town/">✧ Tatoeba Last Dungeon</a></br></br>
+	<img src="https://i.imgur.com/Dfa1dvO.png" class="centerr responsivee"></br></br>W sezonie wiosennym wydajemy:</br>
+	<a href="https://anilist.co/anime/116589/86-Eighty-Six/">✧ 86: Eighty Six</a></br>
+	<a href="https://anilist.co/anime/120697/Ijiranaide-Nagatorosan">✧ Don't Toy With Me, Miss Nagatoro</a></br>
+	<a href="https://anilist.co/anime/103276/FateGrand-Order-Shinsei-Entaku-Ryouiki-Camelot--Wandering-Agateram">✧ Fate/Grand Order Divine Realm of the Round Table: Camelot - Wandering; Agateram</a></br>
+	<a href="https://anilist.co/anime/21719/Fatestay-night-Heavens-Feel-III-spring-song">✧ Fate/stay night [Heaven’s Feel] III. spring song</a></br>
+	<a href="https://anilist.co/anime/124194/Fruits-Basket-The-Final/">✧ Fruits Basket: The Final Season</a></br>
+	<a href="https://anilist.co/anime/114232/Hige-wo-Soru-Soshite-Joshikousei-wo-Hirou">✧ Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway</a></br>
+	<a href="https://anilist.co/anime/113108/Kingdom-3">✧ Kingdom Season 3</a>
+	</br><a href="https://anilist.co/anime/124858/Yuukoku-no-Moriarty-Part-2">✧ Moriarty the Patriot Part 2</a>
+	</br><a href="https://anilist.co/anime/113428/Pretty-Boy-Detective-Club/">✧ Pretty Boy Detective Club</a></br>
+	<a href="https://anilist.co/anime/120376/Subarashiki-Kono-Sekai-The-Animation">✧ The World Ends With You: The Animation</a></br>
+	<a href="https://anilist.co/anime/103047/Violet-Evergarden-Movie">✧ Violet Evergarden The Movie</a></br>
+	<a href="https://anilist.co/anime/128546/Vivy-Fluorite-Eyes-Song">✧ Vivy: Fluorite Eye’s Song</a></br></br>
 	Wpadnij na naszego discorda!</br><a href="https://discordapp.com/invite/V625Q7R">https://discordapp.com/invite/V625Q7R</a>
 	</br>
 	</p>
